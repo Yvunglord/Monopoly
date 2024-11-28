@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Monopoly.Map.Fields.ChanceField" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Map\Fields\ChanceField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.Map.Fields.CommunityChestField" Collapsed="true">
+    <Position X="15" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Map\Fields\CommunityChestField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.Map.Fields.ElectricCompanyField" Collapsed="true">
+    <Position X="19.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Map\Fields\ElectricCompanyField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.Map.Fields.Field" Collapsed="true">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Map\Fields\Field.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Monopoly.Map.Fields.FreeParkingField" Collapsed="true">
+    <Position X="24" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Map\Fields\FreeParkingField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.Map.Fields.GoField" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Map\Fields\GoField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.Map.Fields.GoToJailField" Collapsed="true">
+    <Position X="17.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Map\Fields\GoToJailField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.Map.Fields.InJailField" Collapsed="true">
+    <Position X="21.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Map\Fields\InJailField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.Map.Fields.TaxField" Collapsed="true">
+    <Position X="26.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Map\Fields\TaxField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.Map.Fields.WaterWorksField" Collapsed="true">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Map\Fields\WaterWorksField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.Map.GameProperties.FullSetDecorator" Collapsed="true">
+    <Position X="7.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Map\GameProperties\FullSetDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.Map.GameProperties.HotelDecorator" Collapsed="true">
+    <Position X="10" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Map\GameProperties\HotelDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.Map.GameProperties.HouseDecorator" Collapsed="true">
+    <Position X="12.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Map\GameProperties\HouseDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.Map.GameProperties.Property" Collapsed="true">
+    <Position X="16.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEhAIACAARAAAAAAAAAAAAQAACIAAAgAAAAAgAAAAAA=</HashCode>
+      <FileName>Map\GameProperties\Property.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.Map.GameProperties.PropertyComponent" Collapsed="true">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAARAAAAAAAAAAAAQAACAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Map\GameProperties\PropertyComponent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Monopoly.Map.GameProperties.PropertyDecorator" Collapsed="true">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAARAAAAAAAAAAAAQAACAAAAAAAAAAgEAAQAA=</HashCode>
+      <FileName>Map\GameProperties\PropertyDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.Map.GameProperties.Railroad" Collapsed="true">
+    <Position X="14.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAARAAAAAgAAAAAAQAACAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Map\GameProperties\Railroad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.Map.GameBoard" Collapsed="true">
+    <Position X="32.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAgAAAAgAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Map\GameBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.Dice" Collapsed="true">
+    <Position X="28.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Dice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.Game" Collapsed="true">
+    <Position X="30.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAACAAAAAAAAAAAAAAAAAAAAAoAIAAAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monopoly.Player" Collapsed="true">
+    <Position X="28.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAIIBAAAAAAAiQAKAAAQAAAAIAAAAAAAAACGIAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FManager.Program" Collapsed="true">
+    <Position X="30.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Monopoly.Map.Fields.IField" Collapsed="true">
+    <Position X="7.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Map\Fields\IField.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Monopoly.Map.IGameElement" Collapsed="true">
+    <Position X="7.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Map\IGameElement.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,14 @@
+C:\Users\k_yak\source\repos\Monopoly\bin\Debug\net8.0\Monopoly.exe
+C:\Users\k_yak\source\repos\Monopoly\bin\Debug\net8.0\Monopoly.deps.json
+C:\Users\k_yak\source\repos\Monopoly\bin\Debug\net8.0\Monopoly.runtimeconfig.json
+C:\Users\k_yak\source\repos\Monopoly\bin\Debug\net8.0\Monopoly.dll
+C:\Users\k_yak\source\repos\Monopoly\bin\Debug\net8.0\Monopoly.pdb
+C:\Users\k_yak\source\repos\Monopoly\obj\Debug\net8.0\Monopoly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k_yak\source\repos\Monopoly\obj\Debug\net8.0\Monopoly.AssemblyInfoInputs.cache
+C:\Users\k_yak\source\repos\Monopoly\obj\Debug\net8.0\Monopoly.AssemblyInfo.cs
+C:\Users\k_yak\source\repos\Monopoly\obj\Debug\net8.0\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\k_yak\source\repos\Monopoly\obj\Debug\net8.0\Monopoly.dll
+C:\Users\k_yak\source\repos\Monopoly\obj\Debug\net8.0\refint\Monopoly.dll
+C:\Users\k_yak\source\repos\Monopoly\obj\Debug\net8.0\Monopoly.pdb
+C:\Users\k_yak\source\repos\Monopoly\obj\Debug\net8.0\Monopoly.genruntimeconfig.cache
+C:\Users\k_yak\source\repos\Monopoly\obj\Debug\net8.0\ref\Monopoly.dll
